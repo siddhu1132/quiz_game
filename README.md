@@ -1,6 +1,6 @@
 # QUIZ GAME PROJECT
 
-## It is a small Quiz gmae project.
+## It is a small Quiz game project.
 
 It Starts by asking a question whether players are interested to start a game or not. If they are ready to start, then by replying yes the quiz starts.
 
